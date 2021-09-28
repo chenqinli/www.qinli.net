@@ -31,3 +31,8 @@
 ###### 20210912
 上午在coding.net和gitee.com设置了导入仓库，目前在github的这个仓库文件已经被导入进去。而且我发现这两处不光是访问速度快，而且还能自动同步。
 目前在测试将gitee.com的一个测试仓库导入至github，如果成功，访问速度的问题将进一步解决。
+
+###### 20210928
+When viewing with VI editor, Chinese is displayed as garbled code.
+So my choice is try to write in english.
+Today,I connect local repository to github successfully. It's a good start.
