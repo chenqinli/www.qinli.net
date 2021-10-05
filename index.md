@@ -36,3 +36,8 @@
 When viewing with VI editor, Chinese is displayed as garbled code.
 So my choice is try to write in english.
 Today,I connect local repository to github successfully. It's a good start.
+
+###### 20211004
+I received two hard drives which only have 320g.combine this two hard drives with seatay mobile hard disk drive into one raid1 disk.
+
+I'm going to use this disk to store important work data(documents based)
