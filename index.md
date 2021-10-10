@@ -50,3 +50,5 @@ I don't know how much data has been lost.
 Fortunately,when this hard disk drive failed before, I have backed up some important data.
 
 Goodbye , my 1T seagate mobile hard disk.I will miss you.
+
+add new repository at coding.net
