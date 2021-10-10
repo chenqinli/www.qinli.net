@@ -41,3 +41,12 @@ Today,I connect local repository to github successfully. It's a good start.
 I received two hard drives which only have 320g.combine this two hard drives with seatay mobile hard disk drive into one raid1 disk.
 
 I'm going to use this disk to store important work data(documents based)
+
+###### 20211010
+a mobile hard disk drive that has been used for many years is completely over.
+From last night to this morning, it took me more than ten hours and couldn't be rescued.
+I don't know how much data has been lost.
+
+Fortunately,when this hard disk drive failed before, I have backed up some important data.
+
+Goodbye , my 1T seagate mobile hard disk.I will miss you.
