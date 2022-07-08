@@ -52,3 +52,6 @@ Fortunately,when this hard disk drive failed before, I have backed up some impor
 Goodbye , my 1T seagate mobile hard disk.I will miss you.
 
 add new repository at coding.net
+
+###### 20220709
+惊喜发现gitee.com有个镜像仓库的功能。此功能可以推送仓库至github.com。如果测试期过后能够继续免费、稳定地使用，我希望能够继续用下去。
