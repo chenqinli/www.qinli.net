@@ -1,4 +1,4 @@
-返回[钦礼点网](https://www.qinli.net)，访问[wiki](https://gitee.com/chenqinli/www.qinli.net/wikis/Home)。
+返回[钦礼点网](http://www.qinli.net)，访问[wiki](https://gitee.com/chenqinli/www.qinli.net/wikis/Home)。
 
 # 使用github仓库作为主仓库发布信息用。但最新的版本保存在gitee仓库。
 
